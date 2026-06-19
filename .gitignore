@@ -1,0 +1,7 @@
+# Ignore log files
+*.log
+# Ignore OS files
+Thumbs.db
+# Ignore directories
+temp/
+backup/

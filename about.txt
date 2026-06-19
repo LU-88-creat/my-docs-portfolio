@@ -1,0 +1,11 @@
+ABOUT ME
+
+Name: Boluwatife Oluyede
+Location: Malindi
+Current Focus: Learning Git and Version Control
+
+
+Background: I am a reserved and optimistic person, passionate about cooking, sport and learning new things.
+
+
+Goals: Master Git branching, Contribute to open source, Build a portfolio of projects
