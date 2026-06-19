@@ -1,17 +1,6 @@
 TECHNICAL SKILLS
-
-Version Control:
-* Git (basics, branching, merging)
-* GitHub (pull requests, forks)
-
-
-Programming Languages:
-* Git Bash
-* HTML
-* PYTHON
-
-Tools:
-* Command line/ Terminal
-* JavaScript
+-Software Engineering
+-Git Version Control
+-HTML and Web Development
 
 
