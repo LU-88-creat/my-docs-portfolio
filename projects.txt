@@ -1,13 +1,11 @@
-PROJECTS
+Project: Git Learning Respository
+Status: In progress
+Description: Tracking my journey learning Git
 
-1. Project: Git Learning Respository
-   Status: In progress
-   Description: Tracking my journey learning Git
+Project: Website building (StayLinked)
+Status: Planning
+Description: StayLink is a smart accommodation booking platform that bridges travelers and property owners. It offers real-time room availability, dynamic pricing, verified reviews, and personalized travel recommendations to ensure a reliable and enjoyable booking experience. 
 
-2. Project: Website building (StayLinked)
-   Status: Planning
-   Description: StayLink is a smart accommodation booking platform that bridges travelers and property owners. It offers real-time room availability, dynamic pricing, verified reviews, and personalized travel recommendations to ensure a reliable and enjoyable booking experience. 
-
-3. Project: Website Backend Management System (StayLinked)
-   Status: Planning
-   Description: Ensure data security and integrity. 
+Project: Website Backend Management System (StayLinked)
+Status: Planning
+Description: Ensure data security and integrity. 
